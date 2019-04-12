@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.budsslc.com/index.html</loc>
+    <lastmod>2018-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.budsslc.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/buzzfeed.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/buzzfeed_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/cityhome%20collective.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/salt%20lake%20tribune.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/city%20weekly.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/city%20weekly_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.budsslc.com/images/buds%20logo.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
